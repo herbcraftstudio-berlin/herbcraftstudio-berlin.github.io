@@ -270,7 +270,7 @@ a {
 }
 
 #logo {
-  width: 100%;
+  width: 75%;
   border: none;
   box-shadow: none;
   display: block;
@@ -309,25 +309,22 @@ a {
 .center {
   text-align: center;
 }
-/*******************************************************************************
-End of stuff I added
-*******************************************************************************/
-.outer {
-  width: 100%;
-}
 
 .inner {
   position: relative;
-  max-width: 70%;
+  max-width: 51%;
   padding: 15px 10px;
   margin: 0 auto;
 }
 
 #header_wrap {
-}
-
-#header_wrap .inner {
   padding: 55px 10px 25px 10px;
+}
+/*******************************************************************************
+End of stuff I added
+*******************************************************************************/
+.outer {
+  width: 100%;
 }
 
 #project_title {
